@@ -1,0 +1,5 @@
+# created by virtualenv automatically 
+# *: 모든걸 기록하지 않겠다
+/Lib
+/Scripts
+pyvenv.cfg
